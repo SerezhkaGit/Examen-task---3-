@@ -1,0 +1,6 @@
+Wallets:
+
+Name: ser, Balance: 900
+Expenses:
+
+Category: food, Amount: 100

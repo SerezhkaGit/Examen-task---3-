@@ -1,0 +1,10 @@
+
+Wallet with the highest balance:
+
+Name: Julia, Balance: 150000
+Wallets:
+
+Name: Julia, Balance: 150000
+Expenses:
+
+Category: food, Amount: 50000
